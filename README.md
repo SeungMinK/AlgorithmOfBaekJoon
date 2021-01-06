@@ -1,1 +1,1 @@
-# Algorithm-of-BaekJoon
+JAVA로 푸는 백준 알고리즘
